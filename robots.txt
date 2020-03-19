@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shoitieseo.cornelius-schaub.com/sitemap.xml
